@@ -7,7 +7,7 @@ This project is a simple Question-Answer testing system. It consists of two main
 1. **Examiner Module (`min.c`):**
    - Allows the examiner to input questions and store them in a file.
    - Provides a user-friendly interface for adding and managing questions.
-   - Examiner can select how the questions pattern will be like 1.Rnadomly 2.Orderly.
+   - Examiner can select how the questions pattern will be like 1.Randomly 2.Orderly.
 
 2. **Student Module (`ex.c`):**
    - Enables students to read questions from the file and attempt them.
